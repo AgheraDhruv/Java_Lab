@@ -1,3 +1,0 @@
-info started
-error disk full
-info stopped
